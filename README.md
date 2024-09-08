@@ -1,4 +1,3 @@
 
 
-# code credit to codingforentrepreneurs
-https://github.com/codingforentrepreneurs/video-membership
+# code credit to codingforentrepreneurs github repo
